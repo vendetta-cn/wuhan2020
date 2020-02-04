@@ -1,4 +1,3 @@
-# 简体中文 | [English](./README_EN.md) | [日本語](./README_JP.md) | [Italiano](./README_IT.md) <!-- omit in toc -->
 
 ### 更多的关于Wuhan2020的信息 >>>[https://vendetta-cn.github.io/wuhan2020/](https://vendetta-cn.github.io/wuhan2020/)
 ### Wuhan2020社区官网 >>> [http://community.wuhan2020.org.cn/zh-cn/](http://community.wuhan2020.org.cn/zh-cn/) 
