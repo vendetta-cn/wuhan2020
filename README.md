@@ -4,8 +4,7 @@
 **墙内**
 ### Wuhan2020社区官网 >>> [http://community.wuhan2020.org.cn/zh-cn/](http://community.wuhan2020.org.cn/zh-cn/) 
 
-**墙外**
-- 相关Youtuber
+### 相关Youtuber
 - 新唐人電視臺
 - 美国之音中文网
 - 自由亚洲电台
